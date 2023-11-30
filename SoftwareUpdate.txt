@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+Add docs guide terminal images (#8819)
