@@ -1,1 +1,1 @@
-FROM pytorch/pytorch:2.2.0-cuda12.1-cudnn8-runtime (#8104)
+Both Link Opening Options - Have both the Open in Background option and the Open in New Tab option available alongside each other
